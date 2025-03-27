@@ -1,0 +1,14 @@
+C:\Users\SandySaray\Entwicklung-C#\Selection-Sort\bin\Debug\net9.0\Selection-Sort.exe
+C:\Users\SandySaray\Entwicklung-C#\Selection-Sort\bin\Debug\net9.0\Selection-Sort.deps.json
+C:\Users\SandySaray\Entwicklung-C#\Selection-Sort\bin\Debug\net9.0\Selection-Sort.runtimeconfig.json
+C:\Users\SandySaray\Entwicklung-C#\Selection-Sort\bin\Debug\net9.0\Selection-Sort.dll
+C:\Users\SandySaray\Entwicklung-C#\Selection-Sort\bin\Debug\net9.0\Selection-Sort.pdb
+C:\Users\SandySaray\Entwicklung-C#\Selection-Sort\obj\Debug\net9.0\Selection-Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SandySaray\Entwicklung-C#\Selection-Sort\obj\Debug\net9.0\Selection-Sort.AssemblyInfoInputs.cache
+C:\Users\SandySaray\Entwicklung-C#\Selection-Sort\obj\Debug\net9.0\Selection-Sort.AssemblyInfo.cs
+C:\Users\SandySaray\Entwicklung-C#\Selection-Sort\obj\Debug\net9.0\Selection-Sort.csproj.CoreCompileInputs.cache
+C:\Users\SandySaray\Entwicklung-C#\Selection-Sort\obj\Debug\net9.0\Selection-Sort.dll
+C:\Users\SandySaray\Entwicklung-C#\Selection-Sort\obj\Debug\net9.0\refint\Selection-Sort.dll
+C:\Users\SandySaray\Entwicklung-C#\Selection-Sort\obj\Debug\net9.0\Selection-Sort.pdb
+C:\Users\SandySaray\Entwicklung-C#\Selection-Sort\obj\Debug\net9.0\Selection-Sort.genruntimeconfig.cache
+C:\Users\SandySaray\Entwicklung-C#\Selection-Sort\obj\Debug\net9.0\ref\Selection-Sort.dll
